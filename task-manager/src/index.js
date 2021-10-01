@@ -27,7 +27,3 @@ const myFunc = async () =>{
     const data = jwt.verify(token, 'thisismynewcourse'); 
 }
 
-myFunc();
-console.log("hello world");
-console.log("why arent you running");
-console.log("hello?"); 
